@@ -2,6 +2,10 @@
 Snake Eater
 Made with PyGame
 """
+
+
+
+
 import pygame, sys, time, random
 
 # Difficulty settings
